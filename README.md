@@ -1,4 +1,4 @@
-# 📜 Certifications Portfolio
+# 📜 Certifications 
 
 A curated collection of my certifications in Embedded Systems, IoT, Industrial Automation, Generative AI, and more.
 
