@@ -29,6 +29,15 @@ A curated collection of my certifications in Embedded Systems, IoT, Industrial A
 - Introduction to Extrinsic Semiconductors  
   🗓️ Issued: June 2025  
 
+- AutoCAD Case Study – Electrical Power Demand Calculation  
+  🗓️ Issued: June 2025  
+
+- IoT Cloud – Dweet and Freeboard  
+  🗓️ Issued: June 2025  
+
+- Electronics Course  
+  🗓️ Issued: June 2025  
+
 ---
 
 🔹 **Coursera**
@@ -49,7 +58,7 @@ A curated collection of my certifications in Embedded Systems, IoT, Industrial A
 
 - MATLAB/SIMULINK Bible + ChatGPT  
   🗓️ Issued: May 2025  
-  ⏱️ Duration: 16 hrs 0 mins  
+  ⏱️ Duration: 16 hrs  
 
 - From Wire to PLC – Bootcamp in Industrial Automation  
   🗓️ Issued: May 2025  
@@ -87,7 +96,5 @@ A curated collection of my certifications in Embedded Systems, IoT, Industrial A
   🗓️ Issued: May 2025  
   ⏱️ Duration: 10 hrs  
 
----
-
-
-
+- Roadmap to Become a Full Stack Developer  
+  🗓️ Issued: May 2025  
