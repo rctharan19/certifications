@@ -97,4 +97,6 @@ A curated collection of my certifications in Embedded Systems, IoT, Industrial A
   ⏱️ Duration: 10 hrs  
 
 - Roadmap to Become a Full Stack Developer  
-  🗓️ Issued: May 2025  
+  🗓️ Issued: May 2025
+
+---
