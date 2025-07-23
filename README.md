@@ -100,3 +100,11 @@ A curated collection of my certifications in Embedded Systems, IoT, Industrial A
   🗓️ Issued: May 2025
 
 ---
+
+🔹 **IBM SkillsBuild**
+
+- IoT Certificate – Completion  
+  🗓️ Issued: July 2025  
+  🏛️ Platform: IBM SkillsBuild  
+ 
+---
